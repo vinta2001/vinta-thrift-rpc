@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfiguration.EnableAutoConfiguration.imports = \
+  com.vinta.starter.thrift.SimpleThriftServerAutoConfiguration
